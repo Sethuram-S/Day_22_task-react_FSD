@@ -1,0 +1,8 @@
+/* src/Pricing.css */
+.pricing {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+  }
+  
